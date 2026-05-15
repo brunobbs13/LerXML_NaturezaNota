@@ -297,23 +297,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bsantana\\.nuget\\packages\\": {},
+    "C:\\Users\\bruno\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\1-LerXML_NaturezaTit\\LerXML_NaturezaTit\\LerXML_NaturezaTit\\LerXML_NaturezaTit.csproj",
+      "projectUniqueName": "C:\\Users\\bruno\\OneDrive\\Área de Trabalho\\TesteGit\\LerXML_NaturezaTit\\LerXML_NaturezaTit.csproj",
       "projectName": "LerXML_NaturezaTit",
-      "projectPath": "D:\\1-LerXML_NaturezaTit\\LerXML_NaturezaTit\\LerXML_NaturezaTit\\LerXML_NaturezaTit.csproj",
-      "packagesPath": "C:\\Users\\bsantana\\.nuget\\packages\\",
-      "outputPath": "D:\\1-LerXML_NaturezaTit\\LerXML_NaturezaTit\\LerXML_NaturezaTit\\obj\\",
+      "projectPath": "C:\\Users\\bruno\\OneDrive\\Área de Trabalho\\TesteGit\\LerXML_NaturezaTit\\LerXML_NaturezaTit.csproj",
+      "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bruno\\OneDrive\\Área de Trabalho\\TesteGit\\LerXML_NaturezaTit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\bsantana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -322,6 +322,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

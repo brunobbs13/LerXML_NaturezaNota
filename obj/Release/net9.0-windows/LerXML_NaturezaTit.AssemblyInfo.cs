@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LerXML_NaturezaTit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79ed6bc900f9fa838c613b6069b0e68898e74a2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("LerXML_NaturezaTit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LerXML_NaturezaTit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
